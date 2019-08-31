@@ -1,0 +1,138 @@
+header{
+	width: 100%;
+	background-color: #8a8a8a;
+	height: 750px;
+	display: flex;
+	align-items: center;
+	<!--can noi dung o trung tam-->
+}
+
+*{
+box-sizing: border-box;
+}
+.slogan{
+	margin-left: -25%;
+}
+.slogan0{
+text-align: center;
+}
+.sl2{
+	font-size: 5vw;
+}
+.sl3{
+	font-size:18px;
+	padding: 10px;
+	background-color: #333333;
+	width:60%;
+	margin: auto;
+	color: #e4e4e4;
+	border-radius:7%; 
+}
+.slogan1{
+text-align: center;
+}
+.container{
+width: 65%;
+margin: auto;
+}
+.sl5{
+	font-size: 20px;
+	padding: 35px;
+}
+.sl5 span{
+	color:#00a99d;
+}
+
+.sl4 span{
+	color: #00a99d;
+	font-size: 35px;
+
+}
+mark{
+	background-color: #00a99d;
+}
+
+
+/*page1*/
+
+/*page2*/
+.page2{
+	width: 100%;
+	height:740px;
+	background-color:#f9f9f9;
+
+}
+.slp21 span{
+	color: #85d4ce;
+
+}
+.container2 {
+	width: 100%;
+	height: 50px;
+	border-bottom:1px solid grey; 
+}
+.menu_bar{
+	width: 65%;
+	margin: auto;
+	height: 50px;
+}	
+
+.menu{
+	margin-left:11%; 
+	
+}
+
+.menu ul li{
+	list-style: none;
+	float: left;
+	padding:10px;
+	
+}
+.menu ul li a{
+	font-size: 18px;
+	color: #606060;
+	text-decoration: none;
+
+}
+.wrap2{
+	width: 66%;
+	margin: auto;
+
+}
+.textp2{
+	margin-top:100px; 
+
+}
+.slp21{
+	text-align: center;
+	font-size: 33px;
+}
+.slp22{
+	text-align: center;
+	font-size: 17px;
+}
+.textp3{
+	display: inline-block;
+	padding: 4px;
+	text-align: center;
+	display: flex;
+	margin-top:100px; 
+}
+.tp31{
+	width: 33%;
+
+}
+.tp32{
+	width: 33%;
+	
+}
+.l32{
+	padding: 13px;
+}
+.tp33{
+	width: 33%;
+
+}
+.imgp2{
+	padding: 13px;
+}
