@@ -76,7 +76,9 @@ mark{
 	margin: auto;
 	height: 50px;
 }	
-
+.menu ul{
+	height: 33px;
+}
 .menu{
 	margin-left:11%; 
 	
@@ -133,6 +135,18 @@ mark{
 	width: 33%;
 
 }
-.imgp2{
+.imgp21, .imgp22, .imgp23{
+	border-radius: 34%;
 	padding: 13px;
+	color: white;
+}
+.imgp21{
+	background-color: #383838;
+
+}
+.imgp22{
+	background-color: #00a99d;
+}
+.imgp23{
+	background-color: #383838;
 }
